@@ -40,16 +40,10 @@ p {
     -webkit-margin-after: 0em;
 }
 
-/* Set default font and color. */
-body, button {
-    font-family: 'Avenir Book';
-    color: white;
-}
-
-/*body {
-    background: url('./../images/backgrounds/0.jpg') no-repeat center center fixed;
+body {
+    background: url('C:\Users\chloe\Documents\GitHub\DayzVO-Launcher\app\assets\images\backgrounds\1.png') no-repeat center center fixed;
     background-size: cover;
-}*/
+}
 
 /*******************************************************************************
  *                                                                             *
